@@ -1,0 +1,19 @@
+[24-Oct-2017 05:58:06 UTC] PHP Notice:  Undefined index: data in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/include/Core.php on line 28
+[24-Oct-2017 05:59:41 UTC] PHP Notice:  Undefined index: data in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/include/Core.php on line 28
+[24-Oct-2017 06:07:48 UTC] PHP Notice:  Undefined index: data in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/include/Core.php on line 28
+[24-Oct-2017 06:19:56 UTC] PHP Notice:  Undefined index: data in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/include/Core.php on line 28
+[24-Oct-2017 07:06:49 UTC] PHP Notice:  Undefined property: stdClass::$url in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 21
+[24-Oct-2017 13:22:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/include/Sql.php on line 199
+[24-Oct-2017 13:23:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/include/Sql.php on line 199
+[25-Oct-2017 06:12:28 UTC] PHP Fatal error:  Cannot use [] for reading in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 76
+[25-Oct-2017 06:28:39 UTC] PHP Notice:  Undefined index: فارسی نیوز in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 75
+[25-Oct-2017 06:28:39 UTC] PHP Notice:  Undefined index: وی جی سی in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 75
+[25-Oct-2017 06:28:39 UTC] PHP Notice:  Undefined index: خبرگزاری مشرق in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 75
+[25-Oct-2017 06:28:39 UTC] PHP Notice:  Undefined index: خبرگزاری مهر in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 75
+[25-Oct-2017 06:28:39 UTC] PHP Notice:  Undefined index: خبرگزاری تسنیم in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 75
+[30-Oct-2017 06:23:36 UTC] PHP Fatal error:  Unsupported operand types in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 104
+[31-Oct-2017 07:42:52 UTC] PHP Notice:  Undefined property: stdClass::$SID in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 177
+[31-Oct-2017 07:48:44 UTC] PHP Notice:  Undefined property: stdClass::$SID in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 177
+[31-Oct-2017 07:51:09 UTC] PHP Notice:  Undefined property: stdClass::$SID in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 177
+[01-Nov-2017 12:05:56 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/Report/Report.php on line 217
+[01-Nov-2017 12:13:33 UTC] PHP Warning:  debug_backtrace() expects at most 1 parameter, 2 given in /home/httpniyazmand/public_html/spider/SpiderCrawler/ServerReport/include/Core.php on line 177
